@@ -19,4 +19,5 @@ A powerful Chrome extension for detecting sensitive information such as API keys
 - Enhanced browsing experience by removing disruptive alerts
 - Improved performance and reliability
 
+
 Tip: For quick access, right-click the extension icon and select "Pin to toolbar"
